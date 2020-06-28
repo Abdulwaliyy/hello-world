@@ -1,2 +1,2 @@
 # hello-world
-personal training
+Personal Training on Excel and UI/UX Design
